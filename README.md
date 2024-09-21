@@ -1,2 +1,2 @@
-# Tipos_CSS_PI
-1 - Aula de CSS na matéria técnica - Pesquisa Inovação
+# tipos-de-css
+Exercício sobre os tipos de CSS: inline, embutido e externo.
